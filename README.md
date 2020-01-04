@@ -54,6 +54,6 @@ Você pode configurar se deseja que apareça ou não os campos de inscrição es
 
 <img src="https://www.modulomagento.com.br/plugin/wp-content/uploads/2020/01/checkout-magento-2-008.gif" />
 
-## Preço
+## Instalação
 
-<a href="https://www.modulomagento.com.br/checkout-magento-2-brasil">Acesse nossa loja virtual.</a>
+Link para compra em nossa loja: <a href="https://www.modulomagento.com.br/checkout-magento-2-brasil">Módulo Checkout Magento 2 Brasil</a>.
